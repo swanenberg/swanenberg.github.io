@@ -95,10 +95,6 @@
   </url>
   
   <url>
-    <loc>/technieken/marmer/</loc>
-  </url>
-  
-  <url>
     <loc>/item/marmer-imitatie/</loc>
   </url>
   
@@ -148,6 +144,10 @@
   
   <url>
     <loc>/item/muurschildering/</loc>
+  </url>
+  
+  <url>
+    <loc>/technieken/marmer/</loc>
   </url>
   
   <url>
