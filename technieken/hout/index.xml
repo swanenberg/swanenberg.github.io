@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Houtjes on Hans Koning</title>
+    <link>/technieken/hout/</link>
+    <description>Recent content in Houtjes on Hans Koning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/technieken/hout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eiken imitatie</title>
+      <link>/item/eiken-imitatie-deur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/eiken-imitatie-deur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eikenhout imitatie in wording2</title>
+      <link>/item/eiken-imitatie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/eiken-imitatie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Het oude café Karel&#39;s</title>
+      <link>/item/winkelpui2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/winkelpui2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interieur luxe jacht</title>
+      <link>/item/luxe-jacht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/luxe-jacht/</guid>
+      <description>titel Dit heb ik gemaakt bla bla
+speciaal</description>
+    </item>
+    
+    <item>
+      <title>Oud hout imitatie </title>
+      <link>/item/hout-authentieke-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/hout-authentieke-details/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resultaat Eiken</title>
+      <link>/item/eiken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/eiken/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

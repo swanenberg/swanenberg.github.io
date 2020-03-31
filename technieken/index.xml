@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technieken on Hans Koning</title>
+    <link>/technieken/</link>
+    <description>Recent content in Technieken on Hans Koning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/technieken/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/technieken/testtechniek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/technieken/testtechniek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse technieken</title>
+      <link>/technieken/divers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/technieken/divers/</guid>
+      <description>Wat content hier. Kom op.
+Waar is de content gebleven?</description>
+    </item>
+    
+    <item>
+      <title>Houtjes</title>
+      <link>/technieken/hout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/technieken/hout/</guid>
+      <description>Ik laat u kennis maken met een aantal ambachtelijke schilderstechnieken waar ik hard op het geoefend
+De technieken worden op de klassieke mannier uitgevoerd met traditionele materialen als o.a. lijnolien, terpentijnolie, mixtion, schellak, bladgoud, verschillende soorten tempera&amp;rsquo;s en bier als bindmiddel voor losse pigmenten.</description>
+    </item>
+    
+    <item>
+      <title>Marmer</title>
+      <link>/technieken/marmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/technieken/marmer/</guid>
+      <description>Hier laat ik u kennis maken met een aantal ambachtelijke schilderstechnieken.
+De technieken worden op de klassieke mannier uitgevoerd met traditionele materialen als o.a. lijnolien, terpentijnolie, mixtion, schellak, bladgoud, verschillende soorten tempera&amp;rsquo;s en bier als bindmiddel voor losse pigmenten.</description>
+    </item>
+    
+    <item>
+      <title>Vergulden</title>
+      <link>/technieken/vergulden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/technieken/vergulden/</guid>
+      <description>Hier laat ik u kennis maken met een aantal ambachtelijke schilderstechnieken.
+De technieken worden op de klassieke mannier uitgevoerd met traditionele materialen als o.a. lijnolien, terpentijnolie, mixtion, schellak, bladgoud, verschillende soorten tempera&amp;rsquo;s en bier als bindmiddel voor losse pigmenten.</description>
+    </item>
+    
+  </channel>
+</rss>

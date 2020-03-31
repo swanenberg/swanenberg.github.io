@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marmer on Hans Koning</title>
+    <link>/technieken/marmer/</link>
+    <description>Recent content in Marmer on Hans Koning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/technieken/marmer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>15m2 wit-marmerimitatie op lambrisering.</title>
+      <link>/item/sint-niclaaskerk-amsterdam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/sint-niclaaskerk-amsterdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marmer imitatie</title>
+      <link>/item/marmer-imitatie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/marmer-imitatie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marmer in kleur</title>
+      <link>/item/marmer-in-kleur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/item/marmer-in-kleur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
